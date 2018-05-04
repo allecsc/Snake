@@ -1,0 +1,73 @@
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\bin\Debug\Snake.exe
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\bin\Debug\Snake.pdb
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\Snake.exe
+C:\Users\Allecs C\AppData\Local\Temporary Projects\Snake\obj\x86\Debug\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake\Snake\bin\Debug\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake\Snake\bin\Debug\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.exe
+H:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.pdb
+H:\Alecs C XI B\C# Sharp\Snake\Snake\bin\Debug\Snake.exe
+H:\Alecs C XI B\C# Sharp\Snake\Snake\bin\Debug\Snake.pdb
+H:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+H:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+H:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.exe
+F:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.pdb
+F:\Alecs C XI B\C# Sharp\Snake\Snake\bin\Debug\Snake.exe
+F:\Alecs C XI B\C# Sharp\Snake\Snake\bin\Debug\Snake.pdb
+F:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+F:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+F:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.exe
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.pdb
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\bin\Debug\Snake.exe
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\bin\Debug\Snake.pdb
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.About.resources
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.About.resources
+F:\Alecs C XI B\C# Sharp\Snake\Snake\obj\x86\Debug\Snake.About.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Debug\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Debug\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\bin\Debug\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\bin\Debug\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Debug\Snake.About.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Debug\Snake.Form1.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\bin\Debug\Snake.exe.config
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\bin\Debug\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\bin\Debug\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\Snake.About.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\Snake.Form1.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Alecs C XI B\C# Sharp\Snake .NET 3.5\Snake\bin\Debug\Snake.exe.config
+F:\Alecs C XI B\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\Snake.exe
+F:\Alecs C XI B\C# Sharp\Snake .NET 3.5\Snake\obj\x86\Debug\Snake.pdb
+D:\Alecs C - XI B\C# Sharp\Snake\Snake\bin\Debug\Snake.exe.config

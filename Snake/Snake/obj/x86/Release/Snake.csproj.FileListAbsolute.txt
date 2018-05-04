@@ -1,0 +1,20 @@
+F:\Info\Allecs C\C# Sharp\Snake\Snake\bin\Release\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake\Snake\bin\Release\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Release\Snake.About.resources
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Release\Snake.Form1.resources
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Release\Snake.Properties.Resources.resources
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Release\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake\Snake\obj\x86\Release\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\bin\Release\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\bin\Release\Snake.pdb
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Release\Snake.About.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Release\Snake.Form1.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Release\Snake.Properties.Resources.resources
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Release\Snake.exe
+F:\Info\Allecs C\C# Sharp\Snake .NET 4\Snake\obj\x86\Release\Snake.pdb
